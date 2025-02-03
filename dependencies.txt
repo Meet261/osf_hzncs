@@ -1,0 +1,14 @@
+# R libraries
+BayesFactor
+MASS
+ggplot2
+pROC
+pwr
+reshape2
+
+# Data read
+0
+unknown
+
+# Data written
+stdout
